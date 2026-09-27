@@ -275,4 +275,29 @@ Screenshot Hasil Akhir (Langkah 9):
 
 Kesimpulan
 
-Melalui praktikum pertama ini, saya telah mempelajari dan memahami dasar-dasar penggunaan HTML mulai dari struktur dokumen standar, penggunaan elemen heading, paragraf, pemformatan teks, penyisipan serta pengaturan gambar, pembuatan tautan navigasi (hyperlink), penggunaan list, hingga penulisan komentar kode yang baik.<img width="1413" height="860" alt="Hasil 2 " src="https://github.com/user-attachments/assets/014e3c2e-6157-4e9b-80b9-df0cc6ef081f" />
+Melalui praktikum pertama ini, saya telah mempelajari dan memahami dasar-dasar penggunaan HTML mulai dari struktur dokumen standar, penggunaan elemen heading, paragraf, pemformatan teks, penyisipan serta pengaturan gambar, pembuatan tautan navigasi (hyperlink), penggunaan list, hingga penulisan komentar kode yang baik.<img width="1413" 
+                                                                                                                                                                                                                                                                                                                                    
+Soal Pertanyaan Berikut:
+1. Apa fungsi deklarasi <!DOCTYPE html> pada dokumen HTML?
+2. Apa perbedaan antara tag, elemen, dan atribut pada HTML?
+3. Apa perbedaan <p> dengan <br>? Jelaskan penggunaannya.
+4. Apa fungsi atribut href pada tag <a>?
+5. Apa perbedaan hyperlink ke halaman internal dengan hyperlink ke website eksternal?
+6. Apa fungsi atribut src dan alt pada tag <img>?
+7. Apa perbedaan penggunaan <ul> dan <ol>?
+8. Apa yang terjadi jika path gambar pada atribut src salah?
+9. Mengapa struktur heading h1 sampai h6 perlu digunakan secara terstruktur?
+10. Apa fungsi komentar <!-- ... --> dalam kode HTML?
+
+Jawaban :
+1. Menyatakan kepada browser bahwa dokumen menggunakan standar HTML5.
+2.Tag adalah penanda awalan dan akhiran elemen (<p>), elemen adalah komponen utuh dari tag beserta isinya, dan atribut adalah informasi tambahan di dalam tag pembuka (href, src).
+3.<p> digunakan untuk membuat paragraf baru dengan jarak blok, sedangkan <br> digunakan untuk pindah ke baris baru tanpa membuat paragraf baru.
+4.Menentukan URL atau alamat tujuan tautan yang akan dikunjungi.
+5.Hyperlink internal menghubungkan ke halaman lain di dalam satu website yang sama, sedangkan hyperlink eksternal menghubungkan ke website di luar situs tersebut.
+6.src menentukan lokasi/path file gambar, sedangkan alt memberikan teks deskripsi jika gambar gagal dimuat.
+7.<ul> membuat daftar dengan simbol (bullet) tanpa nomor, sedangkan <ol> membuat daftar berurutan dengan angka atau huruf.
+8.Gambar tidak akan tampil di browser (muncul ikon gambar rusak).
+9.Agar hierarki informasi dokumen web tertata dengan jelas dan logis dari judul utama hingga sub-bagian terkecil.
+10.Memberikan catatan atau penanda kode yang diabaikan oleh browser sehingga tidak tampil di halaman web.
+                                                                                                                                                                                                                                                                                                                                    height="860" alt="Hasil 2 " src="https://github.com/user-attachments/assets/014e3c2e-6157-4e9b-80b9-df0cc6ef081f" />
